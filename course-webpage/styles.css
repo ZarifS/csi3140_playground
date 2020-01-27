@@ -1,0 +1,47 @@
+body.syllabus {
+  margin: 50px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: #222222;
+  background-color: #F8F8F8;
+  letter-spacing: 1px;
+}
+
+.syllabus table th, .syllabus table td { padding: 10px 5px;  }
+
+.syllabus table th {
+  vertical-align: top;
+}
+
+.syllabus h1 {
+  font-size: 30pt;
+}
+
+.syllabus h2 {
+  font-size: 25pt;
+}
+
+.syllabus h3 {
+  font-size: 20pt;
+}
+
+.table-homework {
+  width: 1200px;
+}
+
+.table-homework tr th {
+  background-color: #cc6d2e;
+}
+
+.table-homework tr th, .table-homework tr td {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+.important-list li {
+  line-height: 2em;
+}
