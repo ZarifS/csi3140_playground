@@ -1,0 +1,151 @@
+html,body{
+	height:100%;
+}
+
+.navbar{
+	background: rgba(35, 33, 33,0.97);
+}
+body{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   	font-weight: 300;
+	color:#333;
+	margin:0;
+	padding:0;
+	background-color:#fdfcfe; 
+}
+
+div {
+  overflow: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-align: center;
+}
+
+p{
+	font-weight: 500;
+}
+
+.content{
+	padding-left:20%;
+	padding-right:20%;
+}
+
+.img-container{
+    padding:10px;
+    padding-bottom: 0;
+    display: inline-block;
+}
+
+#homeSection img{
+    width:215px;
+}
+
+#resumeSection{
+    color:white;
+}
+
+#resumeSection img{
+    padding:13px;
+    border: solid white 1px;
+}
+
+.title{
+   	font-weight: 400;
+   	font-variant: small-caps;
+	padding-top: 60px;
+	text-align:center;
+	color:white;
+}
+
+.sect{
+    height:750px;
+	background-size: cover;
+}
+
+.subSection{
+	background-size: cover;
+}
+
+.sectOne{
+	color:white;
+	background-image: url("./images/bg1.jpeg");
+}
+
+.sectTwo{
+	position: relative;
+	color: white;
+	background-image: url("./images/bg2.1.jpg");
+}
+
+
+.sectThree{
+	background-image: url("./images/bg11.1.jpg");
+}
+
+.sectFour{
+	background-image: url("./images/bg4.1.jpg");
+}
+
+
+#projectsSection h1,#projectsSection h2, #projectsSection p{
+    color:white;
+}
+
+.head{
+	color: rgba(255, 255, 255,0.94);
+	margin-top: 105px;
+	margin-bottom: 100px;
+	letter-spacing: 2.5px;
+	font-weight: 600;
+	font-variant: small-caps;
+}
+
+#homeSection h2{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.subSection{
+    height: 550px;
+}
+p{
+    font-size: 18px;
+}
+h2{
+    font-size: 40px;
+}
+.title{
+    font-size: 55px;
+}
+
+.head{
+    margin-top:45px; 
+    margin-bottom: 25px;
+}
+
+#homeSection{
+    height:600px;
+}
+
+#projectsSection{
+    height: 600px;
+}
+
+#resumeSection{
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
